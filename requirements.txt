@@ -1,4 +1,4 @@
+
+openai
 streamlit
-pandas
-openpyxl      # 엑셀파일 읽기용
-numpy
+python-dotenv
