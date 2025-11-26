@@ -1,6 +1,6 @@
 import os
 
-def load_report_text(file_path: str = "data/분기보고서.txt") -> str:
+def load_report_text(file_path: str = "data/아진산업 분기보고서.txt") -> str:
     """
     분기보고서 txt 파일 내용을 전부 읽어서 하나의 문자열로 반환
     """
